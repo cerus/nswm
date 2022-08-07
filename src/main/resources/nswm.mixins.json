@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.cerus.nswm.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MixinToastManager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
